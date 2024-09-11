@@ -1,0 +1,20 @@
+body {
+  background-color: #fd6f33;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+input {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 0.5px solid #9e13f5ce;
+  color: #0c0c0c;
+  padding: 20px;
+}
+
+label {
+  font-weight: bold;
+}
